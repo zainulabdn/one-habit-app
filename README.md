@@ -2,10 +2,6 @@
 
 A tiny, delightful micro‑habit tracker with **premium animations**, a clean **offline data model**, and a fast **Flutter** stack (Riverpod + GoRouter + Hive).
 
-<p align="center">
-  <img src="docs/screenshots/home.png" alt="Home screen" width="280" />
-  <img src="docs/screenshots/add.png" alt="Add habit screen" width="280" />
-</p>
 
 ---
 
@@ -185,9 +181,12 @@ flutter build ipa --release
 ## 🖼️ Screenshots
 
 Place PNGs here and commit:
+<p align="center">
+  <img src="docs/screenshots/ss1.png" width="220" />
+  <img src="docs/screenshots/ss2.png" width="220" />
+  <img src="docs/screenshots/ss3.png" width="220" />
+</p>
 
-<img src="/ss1.png" width="200" />
-<img src="/ss2.png" width="200" />
 
 
 Reference them above in the README (already wired).
