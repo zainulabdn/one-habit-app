@@ -182,9 +182,9 @@ flutter build ipa --release
 
 Place PNGs here and commit:
 <p align="center">
-  <img src="docs/screenshots/ss1.png" width="220" />
-  <img src="docs/screenshots/ss2.png" width="220" />
-  <img src="docs/screenshots/ss3.png" width="220" />
+  <img src="/ss1.png" width="220" />
+  <img src="/ss2.png" width="220" />
+  <img src="/ss3.png" width="220" />
 </p>
 
 
