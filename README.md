@@ -186,10 +186,9 @@ flutter build ipa --release
 
 Place PNGs here and commit:
 
-```
 <img src="/ss1.png" width="200" />
 <img src="/ss2.png" width="200" />
-```
+
 
 Reference them above in the README (already wired).
 
