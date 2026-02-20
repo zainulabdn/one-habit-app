@@ -1,4 +1,4 @@
-# One Tap Habit
+# One-Tap Habit
 
 A tiny, delightful micro‑habit tracker with **premium animations**, a clean **offline data model**, and a fast **Flutter** stack (Riverpod + GoRouter + Hive).
 
